@@ -48,8 +48,8 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-![alt text](public\Screenshot_1.png)
+![Screenshot_1](public/Screenshot_1.png)
 
-![alt text](public\Screenshot_2.png)
+![Screenshot_2](public/Screenshot_2.png)
 
-![alt text](public\Screenshot_3.png)
+![Screenshot_3](public/Screenshot_3.png)
